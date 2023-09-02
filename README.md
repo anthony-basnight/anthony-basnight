@@ -2,7 +2,7 @@ Hi, I’m @anthony-basnight, a Computer Science and Psychological Science studen
 
 My main interest lies in software engineering, but I'm very passionate about statistics and data analytics. I'm also an avid baseball watcher.
 
-I’m currently in the third year of my studies, and taking classes like Operating Systems and Database Systems. I'm looking forward to taking Data Mining next semester.
+I’m currently in the third year of my studies, and taking classes like Data Mining and Machine Learning and Optimization.
 
 This account is a portfolio of personal and small-group projects intended to display my knowledge and proficiencies in varying languages and concepts.
 
